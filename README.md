@@ -1,1 +1,1 @@
-# learning_resources
+# Ресурсы обучения
